@@ -1,0 +1,23 @@
+
+name: online_auction_management_system
+
+description: Online Auction Management system
+
+publish_to: 'none'
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+  firebase_core: ^2.24.2
+  firebase_auth: ^4.15.3
+  cloud_firestore: ^4.13.6
+  firebase_storage: ^11.5.6
+  image_picker: ^1.0.5
+
+flutter:
+  uses-material-design: true

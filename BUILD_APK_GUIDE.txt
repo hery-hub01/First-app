@@ -1,0 +1,28 @@
+
+STEP 1:
+Create GitHub account.
+
+STEP 2:
+Upload project files to GitHub.
+
+STEP 3:
+Create Firebase project.
+
+STEP 4:
+Connect Firebase with Flutter app.
+
+STEP 5:
+Open Codemagic:
+https://codemagic.io
+
+STEP 6:
+Connect GitHub repository.
+
+STEP 7:
+Build Android APK online.
+
+STEP 8:
+Download APK.
+
+STEP 9:
+Install APK on your Android phone.
